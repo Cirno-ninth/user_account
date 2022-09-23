@@ -12,7 +12,7 @@ mysql-client==0.0.1
 mysql-connector==2.2.9
 mysql-connector-python==8.0.18
 Pillow==6.2.1
-protobuf==3.10.0
+protobuf==3.18.3
 pycryptodome==3.9.1
 pylint==2.4.4
 PyMySQL==0.9.3
